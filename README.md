@@ -4,7 +4,7 @@
 <b>Programming language:</b> Python <br />
 <b>Package used:</b> pandas, numpy, matplotlib, SciPy, os <br />
 <b>Main script:</b> [pymaceuticals.ipynb](https://github.com/wingylui/matplotlib-challenge/blob/main/Pymaceuticals/pymaceuticals.ipynb) <br />
-<b>Dataset:</b> [Mouse_metadata](https://github.com/wingylui/matplotlib-challenge/blob/main/Pymaceuticals/data/Mouse_metadata.csv), [Study_results]https://github.com/wingylui/matplotlib-challenge/blob/main/Pymaceuticals/data/Study_results.csv)
+<b>Dataset:</b> [Mouse_metadata](https://github.com/wingylui/matplotlib-challenge/blob/main/Pymaceuticals/data/Mouse_metadata.csv), [Study_results](https://github.com/wingylui/matplotlib-challenge/blob/main/Pymaceuticals/data/Study_results.csv)
 
 ---
 
